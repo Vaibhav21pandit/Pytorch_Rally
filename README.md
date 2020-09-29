@@ -11,4 +11,5 @@ Defining a Linear Neural Net and Classifying MNIST data,Defining a CNN and class
 \
 Additionally there's a notebook by the name Torch_Experiments in which I tinker around with Apps from Pytorch Ecosystem like Ignite and Captum to name a few.\
 I further plan to try-out **PyText for NLP** with torch.\
+Take a look at Pytorch Official examples [here](https://github.com/pytorch/examples) \
 **Feel Free to Fork and Use/Modify**
