@@ -15,10 +15,10 @@ It has 3 following Notebooks- \
 &nbsp; &nbsp;    b.)Variational AutoEncoders on MNIST \
 &nbsp; &nbsp;    c.)basic GAN on MNIST \
 &nbsp; &nbsp;    d.)Style Transfer \
-&nbsp; &nbsp;    e.)U-NET Detectron2,YOLO etc \
+&nbsp; &nbsp;    e.)U-NET Detectron2,YOLO etc 
     
 3.)**Torch Deep Dive**- \
-&nbsp; &nbsp; This a deep dive into Neural Neworks/Image Processing with Pytorch Hooks,Interpretabillity of CNNs,LR Annealing,One cycle Scheduling etc \
+&nbsp; &nbsp; This a deep dive into Neural Neworks/Image Processing with Pytorch Hooks,Interpretabillity of CNNs,LR Annealing,One cycle Scheduling etc 
 
 Additionally there's a notebook by the name Torch_Experiments in which I tinker around with Apps from Pytorch Ecosystem like Ignite and Captum to name a few.\
 I further plan to try-out **TorchText for NLP** with torch.\
